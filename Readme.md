@@ -54,7 +54,7 @@ Git Structure:
 + Stagging area
 + Commit area
 
-
++ Try to add full details of Gt commands
 
 
 
