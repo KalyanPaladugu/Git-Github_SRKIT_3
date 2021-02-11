@@ -55,7 +55,7 @@ Git Structure:
 + Commit area
 
 + Try to add full details of Gt commands
-
++ Second time suggestion try to complete git commands
 
 
 
